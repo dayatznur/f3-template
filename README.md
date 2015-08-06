@@ -4,4 +4,6 @@ Its still a very powerful framework, that allow you a lot of freedom. Follow the
 It has small ORM that supports out of the box MySQL, SQLite, MSSQL/Sybase, PostgreSQL, DB2, and MongoDB. 
 Also has out of the box support for multi-lingual applications, which will come in handy. 
 
+![](https://raw.githubusercontent.com/hendrosteven/f3-template/master/screen.png)
+
 This is a project template that you can used to start with F3 framework. It integrated with valitron validation, domPdf library, PDO class, and bootstrap + jquery for the front end.
